@@ -1,0 +1,17 @@
+{
+    "name": "bnjmnhssnn/boilerplate-phpunit",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "bnjmnhssnn",
+            "email": "info@benjamin-hosseinian.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
